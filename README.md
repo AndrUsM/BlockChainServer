@@ -1,1 +1,1 @@
-## Blockchain API work from Ekreative Hachathon 2019
+## Blockchain API from Ekreative Hachathon 2019
